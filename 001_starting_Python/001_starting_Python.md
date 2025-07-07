@@ -21,7 +21,7 @@ the next exercise if you are already very familiar with Python and NumPy.
 
 If you have a Linux or Mac, Python should already be installed on your
 computer.
-Make sure it is a new enough version, at least 3.9, by running
+Make sure it is a new enough version, at least 3.12, by running
 `python --version` or `python3 --version` in your terminal.
 If you have a Windows, you might need to install Python to have it available
 on your system.
@@ -45,7 +45,7 @@ If you already have Python installed, then
 [Linux](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 [Windows](https://learn.microsoft.com/en-us/windows/terminal/command-line-arguments?tabs=windows));
 - navigate to the root directory of this tutorial;
-- and create a new venv by issuing the following command (your Python executable might have a different name, such as `python`, `python3` or `python3.10`):
+- and create a new venv by issuing the following command (your Python executable might have a different name, such as `python`, `python3` or `python3.12`):
 ```console
 python3 -m venv gp
 ```
@@ -72,7 +72,7 @@ and [_SciPy_](https://scipy.org).
 
 You can install them into your venv using the console command
 ```console
-python -m pip install numpy==1.26.4 scipy==1.13.1 gpytoolbox==0.2.0 polyscope
+python -m pip install numpy==2.2.1 scipy==1.15.0 gpytoolbox==0.3.6 polyscope==2.4.0
 ```
 
 ## Starting Python and verifying that it runs correctly.
