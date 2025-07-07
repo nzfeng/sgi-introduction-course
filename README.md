@@ -10,9 +10,9 @@ Complete the exercises in order from 001 to 999!
 
 The courses are as follows:
 * 1st day: 0xx, by [Oded Stein](https://odedstein.com/)
-* 2nd day: 1xx, by [Dale Decatur](https://ddecatur.github.io) and [Richard Liu](http://www.computerscience.uchicago.edu/people/richard-liu/)
-* 3rd day: 2xx, by [Silvia Sellán](http://dgp.toronto.edu/~sgsellan/)
-* 4th day: 3xx, by [Jiayi Eris Zhang](https://eriszhang.github.io) and [Derek Liu](https://www.dgp.toronto.edu/~hsuehtil/)
+* 2nd day: 2xx, by [Silvia Sellán](http://dgp.toronto.edu/~sgsellan/)
+* 3rd day: 3xx, by [Nicole Feng](https://nzfeng.github.io)
+* 4th day: 1xx, by [Dale Decatur](https://ddecatur.github.io) and [Richard Liu](http://www.computerscience.uchicago.edu/people/richard-liu/)
 * 5th day: 4xx, by [Nick Sharp](https://nmwsharp.com)
 
 We thank Olga Guțan, Peter Rock and Leticia Mattos Da Silva for their help in designing the course.
